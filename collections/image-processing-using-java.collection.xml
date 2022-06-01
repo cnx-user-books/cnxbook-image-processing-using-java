@@ -1,0 +1,66 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11947</md:content-id>
+    <md:title>Image Processing using Java</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>c9c9bdca-4281-4152-b347-d891e886a3dc</md:uuid>
+<md:slug>image-processing-using-java</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m59230"/>
+    <col:subcollection>
+      <md:title>Processing Image Pixels using Java</md:title>
+      <col:content>
+        <col:module document="m59232"/>
+        <col:module document="m59252"/>
+        <col:module document="m59234"/>
+        <col:module document="m59260"/>
+        <col:module document="m59265"/>
+        <col:module document="m59261"/>
+        <col:module document="m59270"/>
+        <col:module document="m59244"/>
+        <col:module document="m59302"/>
+        <col:module document="m59272"/>
+        <col:module document="m59283"/>
+        <col:module document="m59278"/>
+        <col:module document="m59306"/>
+        <col:module document="m59314"/>
+        <col:module document="m59288"/>
+        <col:module document="m59298"/>
+        <col:module document="m59313"/>
+        <col:module document="m59293"/>
+        <col:module document="m59310"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ericson Multimedia using Java</md:title>
+      <col:content>
+        <col:module document="m59323"/>
+        <col:module document="m59384"/>
+        <col:module document="m59386"/>
+        <col:module document="m59373"/>
+        <col:module document="m59320"/>
+        <col:module document="m59360"/>
+        <col:module document="m59326"/>
+        <col:module document="m59340"/>
+        <col:module document="m59336"/>
+        <col:module document="m59354"/>
+        <col:module document="m59368"/>
+        <col:module document="m59379"/>
+        <col:module document="m59346"/>
+        <col:module document="m59420"/>
+        <col:module document="m59417"/>
+        <col:module document="m59389"/>
+        <col:module document="m59394"/>
+        <col:module document="m59410"/>
+        <col:module document="m59426"/>
+        <col:module document="m59423"/>
+        <col:module document="m59396"/>
+        <col:module document="m59401"/>
+        <col:module document="m59406"/>
+        <col:module document="m59415"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
